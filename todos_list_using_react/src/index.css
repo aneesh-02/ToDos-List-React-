@@ -81,7 +81,7 @@ ol
 
 ol li
 {
-  padding-left: 0px;
+  padding-left: 20px;
   text-align: left;
   font-size: 20px;
   font-weight: 500;
@@ -149,9 +149,3 @@ ol li
   }
 
 }
-
-
-
-
-
-
